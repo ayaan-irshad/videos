@@ -9,5 +9,5 @@ export default axios.create({
 		maxResults: 5,
 		key: KEY
 	},
-	Referer: "localhost:3000"
+	Referer: "https://ayaan-irshad.github.io/videos/"
 });
