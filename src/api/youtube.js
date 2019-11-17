@@ -9,5 +9,5 @@ export default axios.create({
 		maxResults: 5,
 		key: KEY
 	},
-	Referer: "https://explorer.apis.google.com"
+	Referer: "localhost:3000"
 });
